@@ -24,10 +24,10 @@ body{
 
     color: #46484c;
     width: 550px;
-    margin-left: 185px;
     margin-top: 40px;
     line-height: 30px;
     text-align: justify;
+    margin-left: 670px;
 
 }
 
@@ -36,8 +36,8 @@ body{
 .botones{
 
     display: grid;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 600px;
+    margin-right: 600px;
     margin-top: 80px;
 
 }
@@ -47,12 +47,13 @@ button{
     background-color: #025157;
     color: #fff;
     border-radius: 100px;
-    margin-left: 120px;
+    margin-left: 300px;
     margin-right: 10px;
     margin-top: 50px;
     margin-bottom: 40px;
     width: 100px;
     padding: 10px;
+    align-items: center;
     
 
 }
