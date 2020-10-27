@@ -1,0 +1,65 @@
+
+
+.title{
+
+    color: rgb(75, 177, 207);
+    margin-top: 50px;
+
+}
+
+
+
+
+body{
+
+    background-color: #fffbf7;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+.parrafo{
+
+    color: #46484c;
+    width: 550px;
+    margin-left: 185px;
+    margin-top: 40px;
+    line-height: 30px;
+    text-align: justify;
+
+}
+
+
+
+.botones{
+
+    display: grid;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 80px;
+
+}
+
+button{
+
+    background-color: #025157;
+    color: #fff;
+    border-radius: 100px;
+    margin-left: 120px;
+    margin-right: 10px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    width: 100px;
+    padding: 10px;
+    
+
+}
+
+.imagen{
+
+    align-self: center;
+    margin-top: 70px;
+
+}
